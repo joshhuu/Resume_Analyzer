@@ -1,0 +1,38 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python environment
+/env/
+
+# IDE and editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Streamlit logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python package distribution
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Test and coverage files
+*.coverage
+.coverage.*
+nosetests.xml
+tox.ini
+*.env
+*.pkl
+
+# Operating system files
+.DS_Store
+Thumbs.db
